@@ -1,0 +1,16 @@
+.privacidade {
+  padding: 10rem 0;
+  color: #3A4951;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 30px;
+  text-align: justify
+}
+
+.privacidade h1 {
+  text-align: center
+}
+
+.privacidade b {
+  font-weight: 600
+}

@@ -1,0 +1,43 @@
+.navbar {
+  background-color: #3D1159;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.39px;
+  line-height: 30px;
+  min-height: 70px
+}
+.navPadTop {
+  padding-top: 18px !important
+}
+.nav-item a {
+  color: #fff;
+  text-decoration: none;
+  padding: 1rem
+}
+.nav-item a:hover {
+  color: #6D59E8;
+  font-weight: 600
+}
+.dropdown-toggle{
+  color: #fff !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.39px !important;
+  line-height: 30px !important
+}
+.dropdown-menu {
+  background-color: #3D1159 !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.39px !important;
+  line-height: 40px !important;
+  text-align: right !important
+  
+}
+.dropdown-menu a {
+  color: #fff !important;
+  text-decoration: none !important;
+  padding: 1rem !important
+  
+}

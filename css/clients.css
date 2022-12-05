@@ -1,0 +1,102 @@
+.clients1 {
+  padding: 10rem 0
+}
+.backClients {
+  background-image: url("../public/clients/clients.webp");
+  background-position: center;
+  background-size: cover;
+  height: 500px
+}
+.clients1 p {
+  color: #fff;
+  font-size: 45px;
+  font-weight: 300;
+  letter-spacing: 0.68px;
+  line-height: 60px
+}
+.clients1 b {
+  color: #fff;
+  font-size: 60px;
+  font-weight: 500;
+  letter-spacing: 0.9px;
+  line-height: 60px
+}
+.clients2 {
+  padding: 5rem 0;
+  color: #3A4951;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center
+}
+.clients2 p {
+  font-weight: 300
+}
+.clients2 b {
+  font-weight: 600
+}
+.clients3 {
+  padding: 10rem 0 5rem;
+  color: #fff
+}
+.clients3 .col{
+  padding: 0 2rem;
+}
+.clients3 p {
+  font-size: 37px;
+  font-weight: 500;
+  letter-spacing: 1.11px;
+  line-height: 42px
+}
+.clients3 ul {
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.6px;
+  line-height: 30px
+}
+.backTotem {
+  background-image: url("../public/clients/totem.webp");
+  background-position: center;
+  background-size: cover;
+  height: 500px
+}
+.backTotemMobile {
+  background-image: url("../public/clients/totemMobile.webp");
+  background-position: center;
+  background-size: cover;
+  height: 600px
+}
+.clients4 {
+  padding: 9rem 0;
+  color: #fff
+}
+.clients4 p {
+  font-size: 33px;
+  font-weight: 500;
+  letter-spacing: 1.11px;
+  line-height: 42px
+}
+.clients4 span {
+  color: #6D59E8;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  padding-top: 3rem
+}
+.clients5 {
+  padding: 5rem 0;
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px
+}
+.clients5 .col {
+  padding: 0 3rem
+}
+.clients5 p {
+  font-weight: 300
+}
+.clients5 b {
+  font-weight: 600
+}
+.clients5 span {
+  font-weight: 600
+}

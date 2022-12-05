@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+  font-family: Montserrat, sans-serif !important
+}
+.fixed-top.scrolled {
+  background-color: #6D59E8;
+  transition: background-color 200ms linear
+}
+.fixed-top.scrolled a:hover {
+  color: #3D1159
+}
+.backColorPurple {
+  background-color: #3D1159
+}
+.backColorLilac {
+  background-color: #6D59E8
+}
+.borderTopLeftRadius {
+  border-top-left-radius: 200px
+}
+.borderBottomRightRadius {
+  border-bottom-right-radius: 200px
+}
+.borderBottomLeftRadius {
+  border-bottom-left-radius: 200px
+}
+.borderTopRightRadius {
+  border-top-right-radius: 200px
+}
+.hashTagWhite {
+  color: #fff !important;
+  font-size: 37px !important;
+  font-weight: 500 !important;
+  line-height: 42px !important;
+  letter-spacing: 1.11px !important;
+  padding-top: 9rem !important
+}
+.hashTagWhitePqn {
+  color: #fff !important;
+  font-size: 20px !important;
+  font-weight: 500 !important;
+  line-height: 30px !important;
+  padding-top: 9rem !important
+}
+.miniForm .form-floating .form-control {
+  background-color: #3D1159 !important;
+  color: #fff;
+  border: none !important;
+  border-bottom: 2px solid #fff !important;
+  border-radius: 0px !important;
+  opacity: 50% !important
+}
+.miniForm .form-floating .form-control:focus {
+  box-shadow: none
+}
+.miniForm .form-select:focus {
+  box-shadow: none
+}
+.miniForm .btn:focus {
+  box-shadow: none
+}
+.miniForm select {
+  background-color: #3D1159 !important;
+  color: #fff !important;
+  border: none;
+  border-bottom: 1px solid #fff;
+  border-radius: 0px;
+  opacity: 50%
+}
+.miniForm label {
+  font-size: 13px !important;
+  font-weight: 300 !important;
+  letter-spacing: 0.39px !important;
+  line-height: 16px !important;
+  opacity: 50%
+}
+.miniForm .btn{
+  color: #fff;
+  background-color: #6D59E8;
+  border-color: #6D59E8;
+  border-radius: 18px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  padding: 15px 50px;
+  width: 100%;
+  margin: 2rem 0
+}
+.miniForm .btn:hover{
+  color: #3D1159
+}
+.miniForm #success{
+  color: #0ABC47;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0.39px;
+  text-align: center
+}

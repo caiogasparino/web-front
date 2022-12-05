@@ -1,0 +1,253 @@
+.home1 {
+  padding-top: 5rem
+}
+.home1 .col {
+  padding: 0 2rem
+}
+.home1 .row .loja {
+  padding-left: 0.8rem
+}
+.home1 .loja .col {
+  padding: 1rem 0rem
+}
+.home1 .loja img {
+  margin: 0 20px 20px 0;
+  float: left
+}
+.home1 .d-lg-none {
+  text-align: right
+}
+.home1 .d-lg-none img {
+  width: 50%
+}
+.home1 h1 {
+  color: #3D1159;
+  font-size: 37px;
+  font-weight: 500;
+  letter-spacing: 1.11px;
+  line-height: 42px;
+  padding-bottom: 3rem
+}
+.home1 p {
+  color: #3A4951;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 0.6px;
+  line-height: 30px
+}
+.home1 b {
+  color: #6D59E8;
+  font-weight: 500
+}
+.home2 {
+  padding: 10rem 0 5rem
+}
+.home2 .col{
+  padding: 0 2rem;
+}
+.home2 h2 {
+  color: #6D59E8;
+  font-size: 37px;
+  font-weight: 500;
+  letter-spacing: 1.11px;
+  line-height: 42px;
+  padding-bottom: 3rem
+}
+.home2 p {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 0.6px;
+  line-height: 30px
+}
+.home2 b {
+  font-weight: 600
+}
+.home3 {
+  padding: 11rem 0
+}
+.home3 .col{
+  padding: 0 2rem;
+}
+.backManifesto {
+  background-image: url("../public/home/manifesto.webp");
+  background-position: center;
+  background-size: cover;
+  height: 500px
+}
+.home3 h3 {
+  color: #3D1159;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.6px;
+  line-height: 25px;
+  text-transform: uppercase;
+  padding-bottom: 1rem
+}
+.home3 p {
+  color: #6D59E8;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  line-height: 30px;
+  text-transform: uppercase
+}
+.home3 .d-lg-none h3 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500 !important;
+  letter-spacing: 0.6px;
+  line-height: 25px;
+  text-transform: uppercase;
+  padding-bottom: 1rem
+}
+.home3 .d-lg-none p {
+  color: #fff;
+  font-size: 10px;
+  font-weight: 600 !important;
+  letter-spacing: 0.3px;
+  line-height: 30px;
+  text-transform: uppercase
+}
+.home4 {
+  color: #fff;
+  padding: 7rem 0
+}
+.home4 .col{
+  padding: 0 2rem;
+}
+.home4 h4 {
+  font-size: 37px !important;
+  font-weight: 500 !important;
+  letter-spacing: 1.11px !important;
+  line-height: 42px !important;
+  padding-bottom: 3rem !important
+}
+.home4 img {
+  height: 100px;
+  margin-bottom: 2rem
+}
+.home4 p {
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 0.45px;
+  line-height: 25px
+}
+.home4 span {
+  color: #6D59E8;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.6px;
+  line-height: 25px;
+  text-transform: uppercase
+}
+.home4 b {
+  font-weight: 500;
+}
+.colunaHome4 {
+  max-width: 250px
+}
+.home5 {
+  padding: 2rem 0
+}
+.home5 .row {
+  margin-top: 2rem
+}
+.home5 .col{
+  padding: 0 2rem;
+}
+.home5 .imgPqn{
+  max-width: 80% !important;
+  padding-top: 3rem
+}
+.home5 span {
+  color: #3D1159;
+  font-size: 37px;
+  font-weight: 500;
+  letter-spacing: 1.11px;
+  line-height: 42px;
+  margin-bottom: 2rem
+}
+.home5 span b {
+  font-weight: 600
+}
+.home5 p {
+  color: #3A4951;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 20px
+}
+.home5 a{
+  color: #fff;
+  background-color: #6D59E8;
+  border-color: #6D59E8;
+  border-radius: 18px;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+  text-decoration: none;
+  padding: 16px 50px
+}
+.home5 a:hover{
+  color: #fff;
+  background-color: #3D1159;
+  border-color: #3D1159
+}
+.home6 {
+  padding: 5rem
+}
+.home6 .col{
+  padding: 0 2rem;
+}
+.home6 p {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 300;
+  letter-spacing: 0.84px;
+  line-height: 32px;
+  text-transform: uppercase
+}
+.home6 span {
+  color: #6D59E8 !important;
+  font-size: 20px !important;
+  font-weight: 500 !important;
+  line-height: 30px !important;
+  padding-top: 3rem !important
+}
+.box-cookies.hide {
+  display: none !important;
+}
+.box-cookies {
+  position: fixed;
+  background: rgba(0, 0, 0, .9);
+  width: 100%;
+  z-index: 998;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.box-cookies .msg-cookies,
+.box-cookies .btn-cookies {
+  text-align: center;
+  padding: 25px;
+  color: #fff;
+  font-size: 18px;
+}
+.box-cookies .btn-cookies {
+  cursor: pointer;
+  align-self: normal;
+  background-color: #6D59E8;
+  border-color: #6D59E8;
+  border-radius: 18px;
+  font-weight: 500;
+  line-height: 20px;
+  text-decoration: none;
+  padding: 12px 50px;
+  margin: 20px
+}
+@media screen and (max-width: 600px) {
+  .box-cookies {
+    flex-direction: column;
+  }
+}

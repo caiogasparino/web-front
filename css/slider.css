@@ -1,0 +1,15 @@
+.carousel-indicators .active {
+  background-color: #6D59E8 !important;
+  width: 20px !important
+}
+.carousel-indicators [data-bs-target] {
+  width: 20px !important
+}
+.carousel-caption {
+  text-align: left !important;
+  bottom: 8rem !important;
+  font-size: 60px;
+  font-weight: 200;
+  letter-spacing: 0.9px;
+  line-height: 60px
+}

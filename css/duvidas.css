@@ -1,0 +1,21 @@
+.duvidas {
+  padding: 5rem 2rem;
+  text-align: center;
+}
+
+.faqButton {
+  color: #fff !important;
+  background-color: #6d59e8 !important;
+  border-color: #6d59e8 !important;
+  border-radius: 18px !important;
+  font-size: 12px !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+  text-transform: uppercase !important;
+  padding: 16px 50px !important;
+}
+
+ul {
+  list-style-type: circle;
+  text-align: left;
+}

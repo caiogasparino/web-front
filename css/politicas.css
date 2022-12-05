@@ -1,0 +1,16 @@
+.politicas {
+  padding: 10rem 0;
+  color: #3A4951;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 30px;
+  text-align: justify
+}
+
+.politicas h1 {
+  text-align: center
+}
+
+.politicas b {
+  font-weight: 600
+}
