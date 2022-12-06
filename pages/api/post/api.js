@@ -12,7 +12,7 @@ export default function (req, res) {
     port: '465',
     auth: {
       user: 'falecom@lyndus.com.br',
-      pass: 'Beauty2021*',
+      pass: 'b123456*',
     },
   })
 
